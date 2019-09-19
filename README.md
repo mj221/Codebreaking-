@@ -14,5 +14,5 @@ A working Enigma machine with access to only rotors I, II, III. Algorithm encryp
 Requires supplied file `enigma.py` and `rotor.py` to execute.
 
 ## `test_enigma_break.py`
-A working Enigma machine with access to only rotors I, II, III. Algorithm breaks code through brute force, given a specified code and crib.
+A working Enigma machine with access to only rotors I, II, III. Algorithm breaks code through brute force, given a specified code and crib. Also returns the number of steps processed to break code.
 Requires supplied file `enigma.py` and `rotor.py` to execute.
